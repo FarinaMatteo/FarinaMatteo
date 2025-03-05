@@ -1,8 +1,7 @@
 ## Hello there! 👋
-🌅 **Incoming.** 
-- Research Intern at the Tübingen AI Center with [Matthias Bethge](https://bethgelab.org/).
 
 🔭 **Currently.** 
+- Research Intern at the Tübingen AI Center with [Matthias Bethge](https://bethgelab.org/).  
 - PhD Student at the University of Trento, Italy, at the [Multimedia and Human Understanding Group](https://mhug.disi.unitn.it/#/), a lab jointly held by [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl) and [Elisa Ricci](https://eliricci.eu/). Supervisors: Elisa Ricci and [Massimiliano Mancini](https://mancinimassimiliano.github.io/).
 
 ⌛️ **Previously.** 
